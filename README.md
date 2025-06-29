@@ -7,10 +7,6 @@
 
 
 
-## Мои проекты:
-
-
-
 ### [Электронный наряд-допуск для металлургического предприятия](https://github.com/Segafoxs/DiplomUrFULAST)
 ![](https://img.shields.io/badge/Django-5.1.4-green) ![](https://img.shields.io/badge/Bootstrap-5-green) ![](https://img.shields.io/badge/MinIO-7.2.15-green) ![](https://img.shields.io/badge/docxtpl-0.19.0-green) ![](https://img.shields.io/badge/gostcrypto-red)
 
