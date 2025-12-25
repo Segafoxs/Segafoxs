@@ -23,5 +23,16 @@
 ### [Симуляция работы транспортной компании ](https://github.com/Segafoxs/ModelTransportCompany)
 ![](https://img.shields.io/badge/pandas-2.3.0-green) ![](https://img.shields.io/badge/matplotlib-3.10.31-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Segafoxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/Segafox" alt="LeetCode Stats"/>
+</div>
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Segafoxs&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Segafoxs&theme=github_dark" alt=""/>
+</div>
+
+
+
 
