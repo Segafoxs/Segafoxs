@@ -22,3 +22,6 @@
 
 ### [Симуляция работы транспортной компании ](https://github.com/Segafoxs/ModelTransportCompany)
 ![](https://img.shields.io/badge/pandas-2.3.0-green) ![](https://img.shields.io/badge/matplotlib-3.10.31-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Segafoxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
