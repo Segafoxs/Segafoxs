@@ -5,7 +5,7 @@
 
 
 
-### [Примеры тест-кейсов и баг-репортов](https://github.com/Segafoxs/TestCase)
+
 
 ### [Изучение автоматизации тестирования на Java (Junit5, Selenide, Cucumber, Allure Report, Rest Assured)](https://github.com/Segafoxs/IF_LAPOTYSHKIN)
 ![](https://img.shields.io/badge/Junit-5.11.1-green) ![](https://img.shields.io/badge/Selenide-7.8.1-green)
